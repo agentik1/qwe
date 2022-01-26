@@ -1,12 +1,10 @@
-h1{
-	color: rgb(0, 0, 255);
-	text-align: center;
+i {
+	font-size: 30px;
 }
-
-h2{
-	color: rgb(0, 200, 0);
-	text-align: center;
+ul {
+	font-size: 20px;
 }
-p{
-	font-size: 19px
+li {
+	color: red;
+	font-weight: bold;
 }
