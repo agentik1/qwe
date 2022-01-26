@@ -1,5 +1,12 @@
-p {
-	text-decoration: overline
+h1{
+	color: rgb(0, 0, 255);
+	text-align: center;
 }
 
-
+h2{
+	color: rgb(0, 200, 0);
+	text-align: center;
+}
+p{
+	font-size: 19px
+}
