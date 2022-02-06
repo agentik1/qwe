@@ -1,7 +1,5 @@
-#elem {
-width: 300px;
-border: 1px solid red;
-text-align: justify;
-padding: 53px;
-padding-left: 29px;
-padding-right: 29px;
+div {
+display: inline;
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
