@@ -1,3 +1,11 @@
-ol {
-	list-style-type: lower-greek;
+#parent {
+	width: 350px;
+	border: 1px solid blue;
+border-style: dashed;
+}
+
+#child {
+	height: 300px;
+	border: 1px solid orange;
+	margin: 30px;
 }
