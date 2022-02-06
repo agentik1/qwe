@@ -1,8 +1,7 @@
 #elem {
-width: 200px;
+width: 300px;
 border: 1px solid red;
 text-align: justify;
-padding-top:    45px;
-padding-right:  35px; 
-padding-bottom: 125px; 
-padding-left:   30px;
+padding: 53px;
+padding-left: 29px;
+padding-right: 29px;
