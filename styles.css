@@ -1,6 +1,6 @@
-a {
-display: block;
+div {
     width: 100px;
     height: 100px;
-    border: 1px dashed orange;
-    padding-bottom: 40px;
+    border: 1px solid red;
+display: inline-block;
+}
