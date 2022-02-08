@@ -1,23 +1,4 @@
 .parent {
-    width: auto;
-    height: auto;
-	border: 1px solid red;
-}
-
-.child:first-child {
-	height: 100px;
-	width: 100px;
-	border: 1px solid green;
-	margin: 10px auto;
-}
-.child:nth-child(2) {
-	height: 100px;
-	width: 300px;
-	border: 1px solid green;
-	margin: 10px auto;
-}
-.child:last-child {
-	height: 100px;
-	width: 500px;
-	border: 1px solid green;
-	margin: 10px auto;
+    text-align: right;
+    padding: 10px 15px;
+    border: 1px solid red;
