@@ -1,5 +1,10 @@
-.parent {
-	text-align: center;
-	padding: 10px 0;
-	border: 1px solid red;
+h1, h2, h3 {
+    text-align: center;
+}
+h2 {
+    color: blue;
+}
+h3 {
+    font-size; 16px;
+    color: red;
 }
